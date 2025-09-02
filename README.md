@@ -123,6 +123,11 @@ Este tooltip é apenas o começo. A mesma lógica pode ser aplicada para:
 
 ---
 
+![Resultado_Julho](https://imgur.com/05bKEfN.png)  
+![Resultado_Setembro](https://imgur.com/96kGlmH.png)  
+
 **Resultado:** Transformar dados em decisões, números em narrativas, e dashboards em ferramentas estratégicas reais.
+
+
 
 
