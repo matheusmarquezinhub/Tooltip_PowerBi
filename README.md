@@ -1,7 +1,5 @@
 # 💰 Tooltip Inteligente Financeiro
 
-> **Um CFO Virtual em formato de Tooltip para Power BI**
-
 ## 🎯 O que é?
 
 Este tooltip transforma dados financeiros básicos (recebimentos vs pagamentos) em **análises executivas inteligentes**. Não é apenas mais um tooltip - é um **sistema de inteligência financeira** disfarçado de visualização simples.
